@@ -1,15 +1,15 @@
 {
-  "name": "Willow",
-  "version": "3.0.0",
+  "name": "Wordalist",
+  "version": "0.0.1",
   "main": "Gruntfile.js",
   "author": {
-    "name": "Raivis Vitols",
-    "url": "https://raivis.com"
+    "name": "David Johansson",
+    "url": "http://wordalist.com"
   },
   "devDependencies": {
-    "grunt": "~1.0.1",
-    "grunt-sass": "~1.1.0",
-    "grunt-contrib-watch": "~1.0.0",
-    "grunt-contrib-uglify": "~1.0.1"
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.1.0"
   }
 }

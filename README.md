@@ -1,14 +1,10 @@
-# Willow Ghost Theme 3.0
+# Wordalist Ghost Theme 0.0.1
 
-Personal, responsive, minimalist and open-source theme for Ghost blogging platform.
-Lightweight - only 2.9KB of CSS and 820B of JavaScript. No jQuery, vanilla JS only.
-Version 2.0 comes with SASS in BEM style using ITCSS (http://itcss.io/) architecture.
-
-![Willow Ghost Theme](http://i.imgur.com/a8WfkoS.png)
+Responsive, minimalist and open-source company blog theme for Ghost blogging platform. Based on the Willow Theme by https://raivis.com.
 
 ## Theme Demo
 
-This theme is currently being used on my personal blog - [https://raivis.com/](https://raivis.com/). See this page for more detailed theme overview - [https://raivis.com/willow-free-responsive-minimalist-ghost-blog-theme/](https://raivis.com/willow-free-responsive-minimalist-ghost-blog-theme/)
+This theme is used on Wordalist blog: http://blog.wordalist.com
 
 ## Compiling SASS & Minifying JavaScript
 
